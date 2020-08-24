@@ -28,15 +28,16 @@ Creates destination object, allows user to input location, landmarks, date visit
 
 ## Setup/Installation Requirements
 
-_{Setup Requirements}_
+_To View: Open in Browser To Clone: Use git clone in your Command Line Interface._
 
 ## Known Bugs
 
-_{Known Bugs}_
+_No Known Bugs as of most recent commit._
 
 ## Support and contact details
 
-_{Contact Details}_
+_alexanderjmarkow@gmail.com
+vstewart1213@gmail.com_
 
 ## Technologies Used
 
