@@ -1,7 +1,11 @@
-function destination(locationName,landMarks,dateVisited,rating,notes {
-  this.locationName = locationName
-  this.landMarks = landMarks
-  this.dateVisited = dateVisited
-  this.rating = rating
-  this.notes = notes
+function Destination(locationName, landMarks, dateVisited, rating, notes) {
+  this.locationName = locationName;
+  this.landMarks = landMarks;
+  this.dateVisited = dateVisited;
+  this.rating = rating;
+  this.notes = notes;
+}
+
+function DestinationBook() {
+  this.destinations = [];
 }
