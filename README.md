@@ -10,21 +10,21 @@ By **_Alexander Markow, Vanessa Stewart_**
 
 ## Description
 
-\_1. Creates a constructor for Destination Book object, as well as individual destination object.
+1.Creates a constructor for Destination Book object, as well as individual destination object.
 Input: let europe = new DestinationBook();
 Input: console.log(europe)
 Output: {desinations: []};
 
-\_2. Creates a constructor for individual destinations, containing the following properties:
+2.Creates a constructor for individual destinations, containing the following properties:
 Location Name:, Landmarks:, Date Visited:, Rating:, Notes:
 Input: let rome = new Destination("Italy", "Coliseum", "5/5/2018", "5/5", "Great food but it gets hot and crowded in summer so be sure to travel during the spring.")
 Input: console.log(rome)
 Output: {}
 
-3.  prototype.nameandrating(), method to list out locations for destination, .prototype.findlocation();
+3.prototype.nameandrating(), method to list out locations for destination, .prototype.findlocation();
 
-4.  Specification for Function to Add Destination
-    Creates destination object, allows user to input location, landmarks, date visited, rating, and notes.
+4.Specification for Function to Add Destination
+Creates destination object, allows user to input location, landmarks, date visited, rating, and notes.
 
 ## Setup/Installation Requirements
 
@@ -66,4 +66,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.\*
 
-Copyright (c) 2016 **_Alexander Markow, Vanessa Stewart_**
+Copyright (c) 2020 **_Alexander Markow, Vanessa Stewart_**
